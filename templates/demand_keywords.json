@@ -1,0 +1,20 @@
+{
+  "_설명": "demand_scan.py 설정. 아래 값은 'AI 활용·수익화' 분야 예시다. 내 분야 검색어로 바꿔 쓴다. 검색어 1개 = 할당량 100단위.",
+  "my_channel_id": "",
+  "local": {
+    "region": "KR",
+    "lang": "ko",
+    "queries": ["챗GPT", "클로드", "클로드 코드", "제미나이", "AI 에이전트", "AI 자동화", "AI 부업", "바이브코딩", "AI 영상 만들기"]
+  },
+  "global": {
+    "region": "US",
+    "lang": "en",
+    "queries": ["AI agent", "Claude Code", "ChatGPT", "I tried AI", "AI side hustle", "vibe coding", "AI automation"]
+  },
+  "suggest": {
+    "hl": "ko",
+    "seeds": ["챗gpt", "클로드", "클로드 코드", "ai 에이전트", "ai 자동화", "ai 부업", "바이브코딩", "ai 영상"]
+  },
+  "noise_title_regex": "ETF|커버드콜|레버리지|#shorts|#meme|#funny",
+  "noise_channels": []
+}

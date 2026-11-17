@@ -1,0 +1,10 @@
+{
+  "name": "youtube-algorithm",
+  "version": "1.0.0",
+  "description": "유튜브 알고리즘 주제 추천·영상 점검 스킬 2종. 로그인 없는 유튜브 홈에 뜬 최근 1개월 조회 100만+ 롱폼을 분석한 기준으로 새 주제를 찾아 22점으로 매기고, 만들고 있는 영상을 9개 항목으로 점검한다.",
+  "author": { "name": "ssapable", "url": "https://github.com/ssap-pa" },
+  "homepage": "https://github.com/ssap-pa/youtube-algorithm-skills",
+  "repository": "https://github.com/ssap-pa/youtube-algorithm-skills",
+  "license": "MIT",
+  "keywords": ["youtube", "algorithm", "planning", "topics", "korean", "creator"]
+}

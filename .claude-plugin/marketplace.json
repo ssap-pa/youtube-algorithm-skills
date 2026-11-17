@@ -1,0 +1,12 @@
+{
+  "name": "youtube-algorithm",
+  "owner": { "name": "ssapable", "url": "https://github.com/ssap-pa" },
+  "description": "유튜브 알고리즘 주제 추천·영상 점검 스킬",
+  "plugins": [
+    {
+      "name": "youtube-algorithm",
+      "source": "./",
+      "description": "새 주제 추천(algorithm-topics)과 진행 중 영상 점검(algorithm-analysis). 근거는 로그아웃 유튜브 홈의 최근 1개월 조회 100만+ 롱폼 39개 분석."
+    }
+  ]
+}
